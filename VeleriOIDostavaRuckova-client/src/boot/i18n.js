@@ -8,6 +8,6 @@ export default boot(({ app }) => {
     messages
   })
 
-  // Set i18n instance on app
+  // Set i18n instance on app, izmjena
   app.use(i18n)
 })
