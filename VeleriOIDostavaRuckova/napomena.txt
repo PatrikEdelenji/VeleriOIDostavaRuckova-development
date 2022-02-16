@@ -1,5 +1,0 @@
-Izmjenjeno 19.12.2021.
-
-Odrađene su sve odkuemntacije, kreiran je idnex za kolekciju administratori.
-Postupci za podkolekcije nisu napravljeni, jer ih još nemamo.
-Preskocen je postupak na početku str. 20 na pdfu 3. nastavna jedinica - Nerelacijske baze podataka, do sad smo uspjeli ostvariti komunikaciju sa firebase serverom.
